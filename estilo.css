@@ -7,15 +7,15 @@
 
 body {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    background: #f5f0eb;
-    color: #2c2c2c;
+    background: #494847;
+    color: #551111;
     padding: 20px;
 }
 
 /* ===== ENCABEZADO ===== */
 header {
-    background: #1e3c5c;
-    color: white;
+    background: #9c7483;
+    color: rgb(255, 248, 248);
     padding: 30px 20px;
     border-radius: 16px;
     text-align: center;
